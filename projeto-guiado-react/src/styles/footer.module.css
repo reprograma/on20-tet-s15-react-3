@@ -1,0 +1,11 @@
+.footerContainer{
+    color: #fff;
+    font-size: 14px;
+}
+
+.footerText{
+   color: #fff;
+   background-color: rgb(103, 151, 218);
+   padding: 1rem;
+   font-size: 14px; 
+}

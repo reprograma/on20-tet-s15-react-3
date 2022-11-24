@@ -1,0 +1,9 @@
+.menuContainer {
+  background: #fff;  
+  display: flex;
+    gap: 10rem;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+

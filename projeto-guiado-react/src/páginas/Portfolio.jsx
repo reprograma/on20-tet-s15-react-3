@@ -4,7 +4,7 @@ import portfolioImg from '../assets/portfolio.svg'
 export function Portfolio() {
     return (
         <>
-        <Header title="Oi" image={portfolioImg}></Header>
+        <Header title="Meu portfólio" image={portfolioImg}></Header>
         </>
     )
 }

@@ -1,0 +1,14 @@
+.footerContainer{
+    padding: 2rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.footerText{
+    color: black;
+    font-size: 1rem;
+}
